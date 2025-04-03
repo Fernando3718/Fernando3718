@@ -13,6 +13,7 @@ Atualmente estou aprendendo e criando projetos com:
 <br>
 
 ## Conecte-se comigo:
+<br>
 
 - <a href="https://www.linkedin.com/in/fernando-da-silva-batista/"><img align="left" alt="LinkedIn" width="75px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <br>
